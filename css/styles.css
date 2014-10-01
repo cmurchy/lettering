@@ -1,5 +1,23 @@
 /* Your Website Styles */
 
+/* Lettering Exercise */
+
+.char1,
+.char3,
+.char5,
+.char7,
+.char9  {
+	color: lightblue;
+}
+
+.word1,
+.word3,
+.word5 {
+	color: orange;
+	letter-spacing: 50px;
+}
+
+
 
 /* Show Grid */
 .showgrid {
